@@ -1,6 +1,6 @@
 ## Olá! Eu sou Iagoh com H👋
 
-- 🌱 Estou estudando front-end
+- 🌱 Estou estudando SGBD (Foco em SQL)
 - 👨🏼‍💻 Aberto a dicas para iniciantes 
 - 📫 Contate-me em: iagohvinicius@gmail.com
 - 😁 Pronomes: ele/dele
